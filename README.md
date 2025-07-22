@@ -54,13 +54,11 @@ Run MovieManagerGUI.java from IntelliJ, or
 
 Use terminal to run the .jar:
 
-bash
-Copiar
-Editar
+
 java -jar release/MovieManagerGUI.jar
 🎥 Demo & Presentation
 ▶️ Demo Video Link
-📽️ Includes:
+📽️ Includes: https://youtu.be/zeHwSVWGeNs
 
 Full SDLC explanation (requirements, planning, testing, deployment)
 
